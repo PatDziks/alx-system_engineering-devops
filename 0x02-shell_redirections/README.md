@@ -1,1 +1,1 @@
-Doing the shell IO Redirections and filters assignment
+Doing the shell IO redirections assignment
